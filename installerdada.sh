@@ -4,4 +4,4 @@ clear
 
 apt update
 apt install python2
-pyrhon2 installerdada.py
+python2 installerdada.py
